@@ -8,6 +8,6 @@
       "searchable": true,
       "format": "csv",
       "fields": ["state", "capital"]
-    },
+    }
   ]
 }
