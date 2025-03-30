@@ -1,0 +1,13 @@
+{
+  "name": "State Capitals",
+  "description": "A list of states and their capitals.",
+  "version": "1.0",
+  "files": [
+    {
+      "path": "docs/state-capitals.csv",
+      "searchable": true,
+      "format": "csv",
+      "fields": ["state", "capital"],
+    },
+  ]
+}
