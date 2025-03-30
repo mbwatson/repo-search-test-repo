@@ -7,7 +7,7 @@
       "path": "docs/state-capitals.csv",
       "searchable": true,
       "format": "csv",
-      "fields": ["state", "capital"],
+      "fields": ["state", "capital"]
     },
   ]
 }
